@@ -17,7 +17,6 @@ GBCoin is an open source, peer to peer, decentralized cryptocurrency, featuring 
 ```
 Pool : http://gbcpool.cryptodev.my/
 Blockchain Explorer : http://gbcex.cryptodev.my:10003
-
 ```
 -------
 
