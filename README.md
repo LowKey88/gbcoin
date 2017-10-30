@@ -12,5 +12,5 @@ GBCoin is an open source, peer to peer, decentralized cryptocurrency, featuring 
 * Required 2500 GBC for Masternode
 * Masternode 65% Block Reward
 
-Pool : http://gbcpool.cryptodev.my/
-Blockchain Explorer : http://gbcex.cryptodev.my:10003
+- Pool : http://gbcpool.cryptodev.my/
+- Blockchain Explorer : http://gbcex.cryptodev.my:10003
