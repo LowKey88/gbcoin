@@ -15,8 +15,8 @@ GoByteCoin/GBCoin (GBC) is an open source, peer to peer, decentralized cryptocur
 -------
 ##### For Miners
 ```
-Pool : http://gbcpool.cryptodev.my/
-Blockchain Explorer : http://gbcex.cryptodev.my:10003
+Pool : http://pool.gobyte.network
+Blockchain Explorer : http://explorer.gobyte.network:10003/
 ```
 -------
 
