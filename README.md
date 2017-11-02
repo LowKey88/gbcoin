@@ -1,6 +1,6 @@
-# GoByteCoin/GBCoin (GBC)
+# GBCoin (GBC)
 
-GoByteCoin/GBCoin (GBC) is an open source, peer to peer, decentralized cryptocurrency, featuring the masternode technology, near-instant and secure payments as well as anonymous transactions.
+GBCoin (GBC) is an open source, peer to peer, decentralized cryptocurrency, featuring the masternode technology, near-instant and secure payments as well as anonymous transactions.
 
 ##### Specification
 * X11 Algorithm
